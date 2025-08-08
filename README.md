@@ -43,5 +43,5 @@ Once added, the integration will:
 
 You can safely add the energy sensors to the Energy Dashboard.
 
-![Example of Niko Energy Dashboard]([https://github.com/Zuntara/niko_energy/edit/main/images/Screenshot%202025-08-08%20104909.png](https://github.com/Zuntara/niko_energy/blob/main/images/Screenshot%202025-08-08%20104909.png))
+![Example of Niko Energy Dashboard](https://github.com/Zuntara/niko_energy/blob/main/images/Screenshot%202025-08-08%20104909.png)
 
