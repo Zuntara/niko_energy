@@ -1,0 +1,12 @@
+{
+  "name": "Niko Homecontrol I Energy Monitor",
+  "author": "Zuntara",
+  "description": "A custom Home Assistant integration to monitor live power and energy usage from Niko Home Control.",
+  "domain": "niko_energy",
+  "codeowners": ["@Zuntara"],
+  "documentation": "https://github.com/Zuntara/niko_energy",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": [],
+  "homeassistant": "2024.6.0"
+}
